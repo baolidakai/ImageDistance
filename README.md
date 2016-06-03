@@ -1,7 +1,5 @@
 <h1>Image Distance Metric Study</h1>
 
-<hr />
-
 <p>
 Steps:
 <ol>
